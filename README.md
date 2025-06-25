@@ -5,7 +5,7 @@ Welcome to my curated collection of research papers I’m reading and summarizin
 
 ## 📚 What's Inside
 
-This repository contains:
+This repository contains :
 
 - 📄 Research papers in PDF format
 - 📝 My summaries and key takeaways in Markdown/pdf or Jupyter format
